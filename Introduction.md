@@ -1,5 +1,27 @@
 # 【关于 docker 安装】那些你不知道的事
 
+> 作者：杨夕
+> 
+> docker 项目地址：https://github.com/km1994/docker_study
+> 
+> 论文学习项目地址：https://github.com/km1994/nlp_paper_study
+> 
+> 大佬们好，我叫杨夕，该项目主要是本人在研读顶会论文和复现经典论文过程中，所见、所思、所想、所闻，可能存在一些理解错误，希望大佬们多多指正。
+> 
+> NLP 面经地址：https://github.com/km1994/NLP-Interview-Notes
+> 
+> 大佬们好，我叫杨夕，该项目主要是本人在找工作过程中，面试准备和经历，可能存在一些理解错误，希望大佬们多多指正。
+
+- [【关于 docker 安装】那些你不知道的事](#关于-docker-安装那些你不知道的事)
+  - [一、docker 三大概念](#一docker-三大概念)
+    - [1.1 整体介绍](#11-整体介绍)
+    - [1.2 镜像（Image）](#12-镜像image)
+    - [1.3 Docker容器](#13-docker容器)
+    - [1.4 Docker Registry](#14-docker-registry)
+  - [三、安装 Docker](#三安装-docker)
+    - [3.1 Windows 10 安装 Docker](#31-windows-10-安装-docker)
+  - [参考资料](#参考资料)
+
 ## 一、docker 三大概念
 
 ### 1.1 整体介绍
